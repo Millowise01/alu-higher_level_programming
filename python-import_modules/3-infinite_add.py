@@ -1,7 +1,5 @@
-
 #!/usr/bin/python3
 from sys import argv
-
 
 def main():
     argc = len(argv) - 1
