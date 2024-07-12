@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 """Creates instances of the class LockedClass"""
 
 class LockedClass:
