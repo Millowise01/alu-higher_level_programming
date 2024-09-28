@@ -1,2 +1,2 @@
-# 3. Extracting Phone Numbers (various formats)
-rts = class Rectangle {};
+#!/usr/bin/node
+module.exports = class Rectangle {};
